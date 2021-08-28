@@ -1,0 +1,34 @@
+table pos_category (
+ ID 
+ NAME 
+);
+
+POS_TABLE(
+ ID
+ TABLE_NAME
+ X
+ Y
+);
+
+POS_MENU(
+ ID
+ CATEGORY_ID
+ MENU_NAME
+ PRICE
+ UPDATE_DATE
+);
+
+POS_ORDER(
+ ID
+ TABLE_ID
+ INSERT_DATE
+);
+
+POS_ORDER_MENU(
+ ORDER_ID
+ MENU_ID
+ MENU_GTY
+);
+
+
+
