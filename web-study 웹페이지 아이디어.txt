@@ -1,4 +1,4 @@
-1. Calendar 일정 웹
+﻿1. Calendar 일정 웹
 각 달에 대한 달력을 띄워주고 각 날짜별로 
 일정을 기입할 수 있는 웹
 
@@ -23,41 +23,19 @@ kt에서 속도 공유기 관련 속도 문제로 이슈가 되었는데
 기능 - 네트워크의 Congestion Control, Flow Control 각 경우에 대한 네트워크
 속도 측정
 
-ex) https://fast.com/ko/
-3.
+ex) 
+https://fast.com/ko/
+https://www.benchbee.co.kr/
 
+3. pos(키오스크)기 웹
+pos기의 기능을 웹으로 구현
 
+제안 동기
+식당이나 이런곳에서 pos기를 사용해서 뿐만 아니라
+웹을 사용해 데이터에 접근하면 좀 더 편리하지 않을까 해서
 
+작품개요 
+기능 - 각 지점 별 식별 url을 만들어 각지점에서 일정한 url을 검색하면
+그에 해당하는 pos웹이 뜸. pos기의 기능도 물론 포함
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ex)http://smart.moatt.co.kr/application/webpos.php
